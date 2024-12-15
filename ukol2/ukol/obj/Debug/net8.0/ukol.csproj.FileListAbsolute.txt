@@ -1,0 +1,14 @@
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\Debug\net8.0\ukol.exe
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\Debug\net8.0\ukol.deps.json
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\Debug\net8.0\ukol.runtimeconfig.json
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\Debug\net8.0\ukol.dll
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\Debug\net8.0\ukol.pdb
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.AssemblyInfoInputs.cache
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.AssemblyInfo.cs
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.csproj.CoreCompileInputs.cache
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.dll
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\refint\ukol.dll
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.pdb
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ukol.genruntimeconfig.cache
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\Debug\net8.0\ref\ukol.dll

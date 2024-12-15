@@ -1,0 +1,14 @@
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\x64\Release\net8.0\NactiData.exe
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\x64\Release\net8.0\NactiData.deps.json
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\x64\Release\net8.0\NactiData.runtimeconfig.json
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\x64\Release\net8.0\NactiData.dll
+C:\Users\z004wx2n\source\repos\ukol\ukol\bin\x64\Release\net8.0\NactiData.pdb
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.AssemblyInfoInputs.cache
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.AssemblyInfo.cs
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.csproj.CoreCompileInputs.cache
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.dll
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\refint\NactiData.dll
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.pdb
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\NactiData.genruntimeconfig.cache
+C:\Users\z004wx2n\source\repos\ukol\ukol\obj\x64\Release\net8.0\ref\NactiData.dll
